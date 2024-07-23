@@ -3,7 +3,7 @@
 var personOneOrder;
 personOneOrder = {
     tableNo: 101,
-    food: "Chicken Wings",
+    food: "Biryani",
     coldDrink: "no israeli product",
     totalPrice: 120
 };
